@@ -1,4 +1,4 @@
-# Wine-Quality-Predection
+# Wine-Quality-Prediction
 
 Wine Quality Prediction using R
 Project Overview
